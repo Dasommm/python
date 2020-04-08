@@ -1,0 +1,25 @@
+#-*- coding:utf-8 -*-
+
+subject = ['java','javascript', 'python']
+for i in subject:
+    print(i)
+    
+for i in subject:
+    print(i, end=' ')
+else:
+    print('\n재밌다')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

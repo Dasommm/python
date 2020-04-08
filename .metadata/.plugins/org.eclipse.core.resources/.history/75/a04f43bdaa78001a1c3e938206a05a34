@@ -1,0 +1,21 @@
+#-*- coding:utf-8 -*-
+
+hap01 = lambda a,b : a + b
+print(hap01)
+print(hap01(10,20))
+
+
+gob = lambda a,b : a*b
+print(gob(10,20))
+
+
+hop02 = lambda a,b,c: a+b+c
+print(hop02(3,4,5))
+
+
+a =[(1,'one',9),(2,'two',8),(3,'three',7),(4,'four',6)]
+a.sort(key=lambda a:a[1])
+print(a)
+
+min01 = (lambda x, y : x if x <y else y)(11, 22)
+print(min01)

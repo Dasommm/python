@@ -1,0 +1,8 @@
+#-*- coding:utf-8 -*-
+
+subject = ['java','javascript', 'python']
+for i in subject:
+    print(i)
+    
+
+

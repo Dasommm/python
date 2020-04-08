@@ -1,0 +1,5 @@
+#int()
+print(True)
+print(False)
+print(int(True))
+print(int(False))

@@ -1,0 +1,33 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\workspace_python\.metadata\.plugins\org.eclipse.core.resources\.projects\Python00\com.python.pydev.analysis\v2_indexcache
+com.test01.__init__|1586163476399860000|C:\workspace_python\Python00\com\test01\__init__.py
+com.test01.split_join|1586170173831315000|C:\workspace_python\Python00\com\test01\split_join.py
+com.__init__|1586163476393897000|C:\workspace_python\Python00\com\__init__.py
+com.test01.built_in|1586164091942142000|C:\workspace_python\Python00\com\test01\built_in.py
+Operation|1586167849366966000|C:\workspace_python\Python00\Operation.py
+com.test01.regular|1586169513364208000|C:\workspace_python\Python00\com\test01\regular.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+6=com.test01.split_join
+4=com.test01.built_in
+1=C:\workspace_python\Python00\Operation.py
+5=C:\workspace_python\Python00\com\test01\split_join.py
+7=C:\workspace_python\Python00\com\test01\regular.py
+2=Operation
+3=C:\workspace_python\Python00\com\test01\built_in.py
+8=com.test01.regular
+-- END DICTIONARY
+-- START TREE 1
+6
+a|2|a!1^3#1*19@a!3^8#1*35@
+arr|4|arr03!5^12#1*51@arr01!5^5#1*51@arr04!5^16#1*51@arr02!5^8#1*51@
+b|1|b!1^4#1*19@
+lis|2|list02!1^51#1*19@list01!1^34#1*19@
+mat|1|match!7^36#1*67@
+str|3|str01!1^40#1*19@str01!7^35#1*67@str01!5^2#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

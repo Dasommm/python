@@ -1,0 +1,14 @@
+#int()
+print(True)
+print(False)
+print(int(True))
+print(int(False))
+
+#str()
+a = 100
+print('a :'+a)
+
+
+
+
+

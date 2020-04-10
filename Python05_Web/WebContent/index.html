@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script type="text/javascript">
+	
+	onclick=function(){
+		//flask server에 요청하여 json받아서 table에 뿌리자
+		var $tbody = $("#tbody")
+		
+		$.getJSON('http://localhost:8585/crawling',function(data){
+			var movies = data.movies;
+			
+			movies.sort(function(a,b){
+				return b.star - a.star;
+			});
+			
+			
+			for(var i = 0; i < movies.length ; i ++){
+				var $tr = $('<tr>')
+				var $title = $('<td>').append(movies[i].title)
+				var $star = $('<td>').append(movies[i].star)
+				$tr.append($title)
+				$tr.append($star)
+				$tbody.append($tr)
+			}
+			
+			
+		});
+		
+	}
+
+</script>
+
+
+</head>
+<body>
+
+<table border="1">
+	<thead>
+		<tr>
+			<th>TITLE</th>
+			<th>STAR</th>
+		</tr>
+	</thead>
+	<tbody id="tbody"></tbody>
+</table>
+
+</body>
+</html>

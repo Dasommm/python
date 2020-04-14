@@ -5202,3 +5202,208 @@ Request: CompletionRequest[ editorFile:C:\workspace_python\Python06_mongo\com\te
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:17:12.532
 !MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:23:03.889
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:23:03.894
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:23:03.901
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:23:06.113
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:23:06.131
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:23:10.547
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:23:10.549
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:23:51.060
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:23:51.064
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:23:51.070
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:23:52.771
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:23:52.787
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:25:48.974
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:25:48.979
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:25:48.985
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:25:50.564
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:25:50.584
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:25:58.125
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:25:58.126
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:28:39.437
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:28:39.439
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:28:49.074
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:28:49.077
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.ide.eclipse.xml.namespaces 4 0 2020-04-14 19:29:03.081
+!MESSAGE Error extracting icon file 'org/springframework/jdbc/config/spring-jdbc.gif' for namespace 'http://www.springframework.org/schema/data/repository'
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: null argument:No InputStream specified
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:88)
+	at org.springsource.ide.eclipse.commons.core.util.FileCopyUtils.copy(FileCopyUtils.java:99)
+	at org.springframework.ide.eclipse.xml.namespaces.internal.ProjectClasspathNamespaceDefinitionResolver.extractIcon(ProjectClasspathNamespaceDefinitionResolver.java:211)
+	at org.springframework.ide.eclipse.xml.namespaces.internal.ProjectClasspathNamespaceDefinitionResolver.init(ProjectClasspathNamespaceDefinitionResolver.java:160)
+	at org.springframework.ide.eclipse.xml.namespaces.internal.ProjectClasspathNamespaceDefinitionResolver.<init>(ProjectClasspathNamespaceDefinitionResolver.java:77)
+	at org.springframework.ide.eclipse.xml.namespaces.internal.ProjectClasspathNamespaceDefinitionResolverCache$ResolvlerCacheEntry.<init>(ProjectClasspathNamespaceDefinitionResolverCache.java:115)
+	at org.springframework.ide.eclipse.xml.namespaces.internal.ProjectClasspathNamespaceDefinitionResolverCache.addResolverToCache(ProjectClasspathNamespaceDefinitionResolverCache.java:62)
+	at org.springframework.ide.eclipse.xml.namespaces.internal.ProjectClasspathNamespaceDefinitionResolverCache.getResolver(ProjectClasspathNamespaceDefinitionResolverCache.java:97)
+	at org.springframework.ide.eclipse.xml.namespaces.SpringXmlNamespacesPlugin.getNamespaceDefinitionResolver(SpringXmlNamespacesPlugin.java:195)
+	at org.springframework.ide.eclipse.xml.namespaces.ui.XmlUiNamespaceUtils.getNamespaceDefinitions(XmlUiNamespaceUtils.java:213)
+	at org.springframework.ide.eclipse.xml.namespaces.ui.XmlUiNamespaceUtils$1.run(XmlUiNamespaceUtils.java:196)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.ide.eclipse.xml.namespaces 4 0 2020-04-14 19:29:03.083
+!MESSAGE Error extracting icon file 'org/springframework/jdbc/config/spring-jdbc.gif' for namespace 'http://www.springframework.org/schema/data/mongo'
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: null argument:No InputStream specified
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:88)
+	at org.springsource.ide.eclipse.commons.core.util.FileCopyUtils.copy(FileCopyUtils.java:99)
+	at org.springframework.ide.eclipse.xml.namespaces.internal.ProjectClasspathNamespaceDefinitionResolver.extractIcon(ProjectClasspathNamespaceDefinitionResolver.java:211)
+	at org.springframework.ide.eclipse.xml.namespaces.internal.ProjectClasspathNamespaceDefinitionResolver.init(ProjectClasspathNamespaceDefinitionResolver.java:160)
+	at org.springframework.ide.eclipse.xml.namespaces.internal.ProjectClasspathNamespaceDefinitionResolver.<init>(ProjectClasspathNamespaceDefinitionResolver.java:77)
+	at org.springframework.ide.eclipse.xml.namespaces.internal.ProjectClasspathNamespaceDefinitionResolverCache$ResolvlerCacheEntry.<init>(ProjectClasspathNamespaceDefinitionResolverCache.java:115)
+	at org.springframework.ide.eclipse.xml.namespaces.internal.ProjectClasspathNamespaceDefinitionResolverCache.addResolverToCache(ProjectClasspathNamespaceDefinitionResolverCache.java:62)
+	at org.springframework.ide.eclipse.xml.namespaces.internal.ProjectClasspathNamespaceDefinitionResolverCache.getResolver(ProjectClasspathNamespaceDefinitionResolverCache.java:97)
+	at org.springframework.ide.eclipse.xml.namespaces.SpringXmlNamespacesPlugin.getNamespaceDefinitionResolver(SpringXmlNamespacesPlugin.java:195)
+	at org.springframework.ide.eclipse.xml.namespaces.ui.XmlUiNamespaceUtils.getNamespaceDefinitions(XmlUiNamespaceUtils.java:213)
+	at org.springframework.ide.eclipse.xml.namespaces.ui.XmlUiNamespaceUtils$1.run(XmlUiNamespaceUtils.java:196)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:29:22.499
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:29:22.501
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:29:48.486
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:29:48.489
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:30:53.047
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:30:53.050
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:32:11.450
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:32:11.452
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:32:16.297
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:32:16.299
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:34:50.274
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:34:50.277
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:35:12.916
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:35:12.918
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:36:33.232
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:36:33.235
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:36:57.795
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:36:57.798
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:37:13.959
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:37:13.962
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:37:24.746
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:37:24.751
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:40:45.258
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:40:45.261
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:41:17.348
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:41:17.352
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:43:09.153
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:43:09.157
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:44:26.420
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:44:26.424
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:45:43.777
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:45:43.780
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:47:00.366
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-14 19:47:00.369
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!

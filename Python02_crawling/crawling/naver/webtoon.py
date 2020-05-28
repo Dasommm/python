@@ -17,8 +17,8 @@ webtoon_list = soup.find('ul',class_='img_list')
 #print(webtoon_list)
 
 dl = webtoon_list.select('dl')
+print(dl)
 lst = list()
-
 
 for chd in dl:
     title = chd.find('a').text
@@ -29,7 +29,7 @@ for chd in dl:
     tmp['title'] = title
     tmp['star'] = star
     lst.append(tmp)
-    
+     
 res = {}
 res['webtoons'] =lst
 res_json = json.dumps(res, ensure_ascii=False)    
